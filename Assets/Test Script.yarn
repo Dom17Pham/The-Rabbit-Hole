@@ -1,0 +1,22 @@
+title: Start
+position: -24,9
+---
+The air is oddly stale. Dead silence is all that is heard.
+
+Cold air omits from the entrance of the cave they call the Rabbit Hole. It brushes the surface of your skin causing you to shiver. 
+
+Unknown: People tell tales of the Rabbit Hole where many venture into its depths to find only horror and despair. 
+
+Unknown: Why bother entering an ominous place in the first place you might ask. 
+Unknown: Well traveler, there is a rumor that the Rabbit Hole holds a treasure that can make you wealthier than any king or queen in this kingdom. 
+
+Unknown: Some people think the treasure is gold, others think its knowledge and wisdom that will be bestowed upon them which is  the treasure. No one knows truly what "treasure" lies in the Rabbit Hole. 
+
+Unknown: Aren't you curious of what it is? 
+
+-> Player: Yes.
+    Unknown: Well there's only one way to find out, go ahead and fall into the Rabbit Hole. Good luck traveler.
+
+-> Player: No.
+    Unknown: That's no fun. Don't you have a sense of adventure! Fine then. Leave.
+=== 
